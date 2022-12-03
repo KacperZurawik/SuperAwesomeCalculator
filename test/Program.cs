@@ -13,7 +13,7 @@ namespace test
             Console.Title = "login";
             //login stuff
             MainMenu.WriteLogo();
-            Console.WriteLine("Welcome back!");
+            Console.WriteLine("Welcome back! ...Or just maybe first time");
             Console.ReadKey(true);
             MainMenu.Menu();
         
